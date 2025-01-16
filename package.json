@@ -1,0 +1,19 @@
+{
+  "name": "node_ci_cd_2025",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Repo pour CI avec Node et linter eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.18.0",
+    "globals": "^15.14.0"
+  }
+}
